@@ -1,0 +1,23 @@
+
+# c#
+
+# User Specifi files
+*.suo
+*.user
+*.sln.docstates
+
+# Build Results
+
+[Dd]ebug*/
+[Rr]elease/
+
+build/
+
+# Resharper
+_Resharper*/
+
+
+# Others
+[Bb]in
+[Oo]bj
+
